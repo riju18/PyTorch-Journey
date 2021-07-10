@@ -7,4 +7,4 @@
     + PyTorch reduced more FN than Tensorflow
     + Accuracy is 2-3% better than Tensorflow
   + Summary :
-    + Need more experiment to evaluate which one is better in particular dataset
+    + Need more experiments to evaluate which one is better in particular dataset
